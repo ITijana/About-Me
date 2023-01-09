@@ -1,4 +1,3 @@
-# Hi there :)
 <h1 align="center">Hi 👋, I'm Tijana</h1>
 - 📫 How to reach me **tijana.milenkovic994@gmail.com**
 
