@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tijana</h1>
 - 📫 How to reach me **tijana.milenkovic994@gmail.com**
 
-<img src="[image.png](https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif)" align="right" alt="coding" width="400">
+<img src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" align="right" alt="coding" width="400">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
