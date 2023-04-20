@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tijana</h1>
-- 📫 How to reach me **tijana.milenkovic994@gmail.com**
+- 📫 How to reach me: tijana.milenkovic994@gmail.com
 
 <img src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" align="right" alt="coding" width="400">
 
